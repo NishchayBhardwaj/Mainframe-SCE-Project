@@ -1,0 +1,17 @@
+streamlit 
+fpdf 
+transformers
+pandas
+datetime
+torch
+tensorflow
+keras
+python-dotenv
+paramiko
+requests
+spacy
+tf-keras
+fitz
+accelerate
+frontend
+tqdm

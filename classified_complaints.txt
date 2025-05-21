@@ -1,0 +1,500 @@
+GRV0000001 Sanitation  Air conditioner not cooling                              02 20250513 O
+GRV0000002 Sanitation  Unhygienic surroundings                                  02 20250512 O
+GRV0000003 Electricity Elevator not functioning                                 05 20250511 O
+GRV0000004 Roads       Blocked drainage system                                  04 20250510 O
+GRV0000005 Roads       Blocked drainage system                                  04 20250509 O
+GRV0000006 Sanitation  Improper waste segregation                               02 20250508 O
+GRV0000007 Sanitation  Unhygienic surroundings                                  02 20250507 E
+GRV0000008 Sanitation  Fan making unusual noise                                 02 20250506 E
+GRV0000009 Water       Inadequate water supply                                  03 20250505 E
+GRV0000010 Bank        Streetlight not working                                  06 20250504 E
+GRV0000011 Bank        Unauthorized vehicle parked                              06 20250503 E
+GRV0000012 Roads       Broken tiles in corridor                                 04 20250502 E
+GRV0000013 Sanitation  Loud noise from neighbors                                02 20250501 E
+GRV0000014 Sanitation  Garbage not collected                                    02 20250430 E
+GRV0000015 Roads       Blocked drainage system                                  04 20250429 E
+GRV0000016 Sanitation  Improper waste segregation                               02 20250428 E
+GRV0000017 Roads       Tree branches need trimming                              04 20250427 E
+GRV0000018 Water       Inadequate water supply                                  03 20250426 E
+GRV0000019 Roads       Blocked drainage system                                  04 20250425 E
+GRV0000020 Roads       Tree branches need trimming                              04 20250424 E
+GRV0000021 Water       Water leakage in bathroom                                03 20250423 E
+GRV0000022 Bank        Unauthorized vehicle parked                              06 20250422 E
+GRV0000023 Water       Inadequate water supply                                  03 20250421 E
+GRV0000024 Roads       Broken tiles in corridor                                 04 20250420 E
+GRV0000025 Sanitation  Fan making unusual noise                                 02 20250419 E
+GRV0000026 Sanitation  Security guard absent                                    02 20250418 E
+GRV0000027 Sanitation  Unhygienic surroundings                                  02 20250417 E
+GRV0000028 Bank        Unauthorized vehicle parked                              06 20250416 E
+GRV0000029 Sanitation  Fan making unusual noise                                 02 20250415 E
+GRV0000030 Sanitation  Power outage for several hours                           02 20250414 E
+GRV0000031 Sanitation  Improper waste segregation                               02 20250413 E
+GRV0000032 Sanitation  Dripping tap in kitchen                                  02 20250412 E
+GRV0000033 Water       Water leakage in bathroom                                03 20250411 E
+GRV0000034 Bank        Streetlight not working                                  06 20250410 E
+GRV0000035 Sanitation  Garbage not collected                                    02 20250409 E
+GRV0000036 Sanitation  Fan making unusual noise                                 02 20250408 E
+GRV0000037 Sanitation  Improper waste segregation                               02 20250407 E
+GRV0000038 Water       Water leakage in bathroom                                03 20250406 E
+GRV0000039 Sanitation  Garbage not collected                                    02 20250405 E
+GRV0000040 Sanitation  Security guard absent                                    02 20250404 E
+GRV0000041 Roads       Blocked drainage system                                  04 20250403 E
+GRV0000042 Water       Inadequate water supply                                  03 20250402 E
+GRV0000043 Sanitation  Wi-Fi connectivity problem                               02 20250401 E
+GRV0000044 Sanitation  Dripping tap in kitchen                                  02 20250331 E
+GRV0000045 Roads       Broken tiles in corridor                                 04 20250330 E
+GRV0000046 Sanitation  Power outage for several hours                           02 20250329 E
+GRV0000047 Sanitation  Security guard absent                                    02 20250328 E
+GRV0000048 Bank        Streetlight not working                                  06 20250327 E
+GRV0000049 Roads       Tree branches need trimming                              04 20250326 E
+GRV0000050 Sanitation  Fan making unusual noise                                 02 20250325 E
+GRV0000051 Sanitation  Mosquito infestation                                     02 20250324 E
+GRV0000052 Sanitation  Unhygienic surroundings                                  02 20250323 E
+GRV0000053 Sanitation  Unhygienic surroundings                                  02 20250322 E
+GRV0000054 Sanitation  Mosquito infestation                                     02 20250321 E
+GRV0000055 Sanitation  Wi-Fi connectivity problem                               02 20250320 E
+GRV0000056 Roads       Tree branches need trimming                              04 20250319 E
+GRV0000057 Sanitation  Loud noise from neighbors                                02 20250318 E
+GRV0000058 Water       Water leakage in bathroom                                03 20250317 E
+GRV0000059 Water       Water leakage in bathroom                                03 20250316 E
+GRV0000060 Sanitation  Improper waste segregation                               02 20250315 E
+GRV0000061 Sanitation  Fan making unusual noise                                 02 20250314 E
+GRV0000062 Roads       Broken tiles in corridor                                 04 20250313 E
+GRV0000063 Bank        Unauthorized vehicle parked                              06 20250312 E
+GRV0000064 Roads       Tree branches need trimming                              04 20250311 E
+GRV0000065 Sanitation  Dripping tap in kitchen                                  02 20250310 E
+GRV0000066 Sanitation  Power outage for several hours                           02 20250309 E
+GRV0000067 Water       Water leakage in bathroom                                03 20250308 E
+GRV0000068 Sanitation  Loud noise from neighbors                                02 20250307 E
+GRV0000069 Electricity Elevator not functioning                                 05 20250306 E
+GRV0000070 Sanitation  Dripping tap in kitchen                                  02 20250305 E
+GRV0000071 Sanitation  Mosquito infestation                                     02 20250304 E
+GRV0000072 Bank        Streetlight not working                                  06 20250303 E
+GRV0000073 Roads       Broken tiles in corridor                                 04 20250302 E
+GRV0000074 Roads       Tree branches need trimming                              04 20250301 E
+GRV0000075 Roads       Tree branches need trimming                              04 20250228 E
+GRV0000076 Electricity Elevator not functioning                                 05 20250227 E
+GRV0000077 Roads       Tree branches need trimming                              04 20250226 E
+GRV0000078 Sanitation  Parking issues in basement                               02 20250225 E
+GRV0000079 Bank        Streetlight not working                                  06 20250224 E
+GRV0000080 Roads       Blocked drainage system                                  04 20250223 E
+GRV0000081 Sanitation  Security guard absent                                    02 20250222 E
+GRV0000082 Roads       Blocked drainage system                                  04 20250221 E
+GRV0000083 Sanitation  Fan making unusual noise                                 02 20250220 E
+GRV0000084 Water       Inadequate water supply                                  03 20250219 E
+GRV0000085 Bank        Streetlight not working                                  06 20250218 E
+GRV0000086 Sanitation  Dripping tap in kitchen                                  02 20250217 E
+GRV0000087 Sanitation  Security guard absent                                    02 20250216 E
+GRV0000088 Bank        Streetlight not working                                  06 20250215 E
+GRV0000089 Sanitation  Power outage for several hours                           02 20250214 E
+GRV0000090 Sanitation  Dripping tap in kitchen                                  02 20250213 E
+GRV0000091 Roads       Tree branches need trimming                              04 20250212 E
+GRV0000092 Water       Water leakage in bathroom                                03 20250211 E
+GRV0000093 Water       Water leakage in bathroom                                03 20250210 E
+GRV0000094 Sanitation  Improper waste segregation                               02 20250209 E
+GRV0000095 Roads       Tree branches need trimming                              04 20250208 E
+GRV0000096 Sanitation  Loud noise from neighbors                                02 20250207 E
+GRV0000097 Sanitation  Loud noise from neighbors                                02 20250206 E
+GRV0000098 Electricity Elevator not functioning                                 05 20250205 E
+GRV0000099 Bank        Streetlight not working                                  06 20250204 E
+GRV0000100 Sanitation  Improper waste segregation                               02 20250203 E
+GRV0000101 Sanitation  Mosquito infestation                                     02 20250202 E
+GRV0000102 Bank        Streetlight not working                                  06 20250201 E
+GRV0000103 Sanitation  Wi-Fi connectivity problem                               02 20250131 E
+GRV0000104 Roads       Tree branches need trimming                              04 20250130 E
+GRV0000105 Electricity Elevator not functioning                                 05 20250129 E
+GRV0000106 Sanitation  Loud noise from neighbors                                02 20250128 E
+GRV0000107 Sanitation  Improper waste segregation                               02 20250127 E
+GRV0000108 Sanitation  Unhygienic surroundings                                  02 20250126 E
+GRV0000109 Sanitation  Power outage for several hours                           02 20250125 E
+GRV0000110 Electricity Elevator not functioning                                 05 20250124 E
+GRV0000111 Water       Inadequate water supply                                  03 20250123 E
+GRV0000112 Roads       Tree branches need trimming                              04 20250122 E
+GRV0000113 Sanitation  Loud noise from neighbors                                02 20250121 E
+GRV0000114 Roads       Broken tiles in corridor                                 04 20250120 E
+GRV0000115 Sanitation  Dripping tap in kitchen                                  02 20250119 E
+GRV0000116 Bank        Unauthorized vehicle parked                              06 20250118 E
+GRV0000117 Sanitation  Wi-Fi connectivity problem                               02 20250117 E
+GRV0000118 Roads       Broken tiles in corridor                                 04 20250116 E
+GRV0000119 Sanitation  Air conditioner not cooling                              02 20250115 E
+GRV0000120 Sanitation  Fan making unusual noise                                 02 20250114 E
+GRV0000121 Sanitation  Wi-Fi connectivity problem                               02 20250113 E
+GRV0000122 Sanitation  Improper waste segregation                               02 20250112 E
+GRV0000123 Bank        Unauthorized vehicle parked                              06 20250111 E
+GRV0000124 Bank        Unauthorized vehicle parked                              06 20250110 E
+GRV0000125 Sanitation  Security guard absent                                    02 20250109 E
+GRV0000126 Sanitation  Improper waste segregation                               02 20250108 E
+GRV0000127 Sanitation  Air conditioner not cooling                              02 20250107 E
+GRV0000128 Roads       Broken tiles in corridor                                 04 20250106 E
+GRV0000129 Water       Inadequate water supply                                  03 20250105 E
+GRV0000130 Sanitation  Garbage not collected                                    02 20250104 E
+GRV0000131 Sanitation  Loud noise from neighbors                                02 20250103 E
+GRV0000132 Water       Inadequate water supply                                  03 20250102 E
+GRV0000133 Sanitation  Wi-Fi connectivity problem                               02 20250101 E
+GRV0000134 Bank        Streetlight not working                                  06 20241231 E
+GRV0000135 Sanitation  Mosquito infestation                                     02 20241230 E
+GRV0000136 Sanitation  Security guard absent                                    02 20241229 E
+GRV0000137 Sanitation  Mosquito infestation                                     02 20241228 E
+GRV0000138 Sanitation  Unhygienic surroundings                                  02 20241227 E
+GRV0000139 Sanitation  Wi-Fi connectivity problem                               02 20241226 E
+GRV0000140 Sanitation  Mosquito infestation                                     02 20241225 E
+GRV0000141 Sanitation  Mosquito infestation                                     02 20241224 E
+GRV0000142 Water       Water leakage in bathroom                                03 20241223 E
+GRV0000143 Sanitation  Improper waste segregation                               02 20241222 E
+GRV0000144 Roads       Tree branches need trimming                              04 20241221 E
+GRV0000145 Water       Water leakage in bathroom                                03 20241220 E
+GRV0000146 Water       Inadequate water supply                                  03 20241219 E
+GRV0000147 Electricity Elevator not functioning                                 05 20241218 E
+GRV0000148 Roads       Blocked drainage system                                  04 20241217 E
+GRV0000149 Sanitation  Garbage not collected                                    02 20241216 E
+GRV0000150 Roads       Broken tiles in corridor                                 04 20241215 E
+GRV0000151 Roads       Blocked drainage system                                  04 20241214 E
+GRV0000152 Electricity Elevator not functioning                                 05 20241213 E
+GRV0000153 Sanitation  Dripping tap in kitchen                                  02 20241212 E
+GRV0000154 Roads       Tree branches need trimming                              04 20241211 E
+GRV0000155 Sanitation  Garbage not collected                                    02 20241210 E
+GRV0000156 Water       Water leakage in bathroom                                03 20241209 E
+GRV0000157 Sanitation  Power outage for several hours                           02 20241208 E
+GRV0000158 Sanitation  Wi-Fi connectivity problem                               02 20241207 E
+GRV0000159 Roads       Blocked drainage system                                  04 20241206 E
+GRV0000160 Sanitation  Air conditioner not cooling                              02 20241205 E
+GRV0000161 Sanitation  Improper waste segregation                               02 20241204 E
+GRV0000162 Roads       Blocked drainage system                                  04 20241203 E
+GRV0000163 Roads       Broken tiles in corridor                                 04 20241202 E
+GRV0000164 Sanitation  Garbage not collected                                    02 20241201 E
+GRV0000165 Water       Water leakage in bathroom                                03 20241130 E
+GRV0000166 Roads       Tree branches need trimming                              04 20241129 E
+GRV0000167 Sanitation  Mosquito infestation                                     02 20241128 E
+GRV0000168 Sanitation  Dripping tap in kitchen                                  02 20241127 E
+GRV0000169 Bank        Unauthorized vehicle parked                              06 20241126 E
+GRV0000170 Roads       Tree branches need trimming                              04 20241125 E
+GRV0000171 Sanitation  Improper waste segregation                               02 20241124 E
+GRV0000172 Sanitation  Wi-Fi connectivity problem                               02 20241123 E
+GRV0000173 Sanitation  Loud noise from neighbors                                02 20241122 E
+GRV0000174 Water       Water leakage in bathroom                                03 20241121 E
+GRV0000175 Sanitation  Wi-Fi connectivity problem                               02 20241120 E
+GRV0000176 Sanitation  Dripping tap in kitchen                                  02 20241119 E
+GRV0000177 Sanitation  Unhygienic surroundings                                  02 20241118 E
+GRV0000178 Roads       Tree branches need trimming                              04 20241117 E
+GRV0000179 Sanitation  Power outage for several hours                           02 20241116 E
+GRV0000180 Bank        Streetlight not working                                  06 20241115 E
+GRV0000181 Sanitation  Garbage not collected                                    02 20241114 E
+GRV0000182 Sanitation  Fan making unusual noise                                 02 20241113 E
+GRV0000183 Bank        Unauthorized vehicle parked                              06 20241112 E
+GRV0000184 Sanitation  Air conditioner not cooling                              02 20241111 E
+GRV0000185 Sanitation  Unhygienic surroundings                                  02 20241110 E
+GRV0000186 Bank        Streetlight not working                                  06 20241109 E
+GRV0000187 Water       Inadequate water supply                                  03 20241108 E
+GRV0000188 Water       Inadequate water supply                                  03 20241107 E
+GRV0000189 Sanitation  Garbage not collected                                    02 20241106 E
+GRV0000190 Sanitation  Security guard absent                                    02 20241105 E
+GRV0000191 Water       Inadequate water supply                                  03 20241104 E
+GRV0000192 Sanitation  Dripping tap in kitchen                                  02 20241103 E
+GRV0000193 Water       Water leakage in bathroom                                03 20241102 E
+GRV0000194 Sanitation  Loud noise from neighbors                                02 20241101 E
+GRV0000195 Sanitation  Air conditioner not cooling                              02 20241031 E
+GRV0000196 Water       Inadequate water supply                                  03 20241030 E
+GRV0000197 Sanitation  Unhygienic surroundings                                  02 20241029 E
+GRV0000198 Sanitation  Unhygienic surroundings                                  02 20241028 E
+GRV0000199 Sanitation  Fan making unusual noise                                 02 20241027 E
+GRV0000200 Sanitation  Air conditioner not cooling                              02 20241026 E
+GRV0000201 Electricity Elevator not functioning                                 05 20241025 E
+GRV0000202 Sanitation  Unhygienic surroundings                                  02 20241024 E
+GRV0000203 Sanitation  Fan making unusual noise                                 02 20241023 E
+GRV0000204 Sanitation  Unhygienic surroundings                                  02 20241022 E
+GRV0000205 Sanitation  Power outage for several hours                           02 20241021 E
+GRV0000206 Sanitation  Mosquito infestation                                     02 20241020 E
+GRV0000207 Sanitation  Fan making unusual noise                                 02 20241019 E
+GRV0000208 Bank        Unauthorized vehicle parked                              06 20241018 E
+GRV0000209 Bank        Streetlight not working                                  06 20241017 E
+GRV0000210 Sanitation  Power outage for several hours                           02 20241016 E
+GRV0000211 Water       Inadequate water supply                                  03 20241015 E
+GRV0000212 Sanitation  Security guard absent                                    02 20241014 E
+GRV0000213 Sanitation  Unhygienic surroundings                                  02 20241013 E
+GRV0000214 Roads       Blocked drainage system                                  04 20241012 E
+GRV0000215 Roads       Tree branches need trimming                              04 20241011 E
+GRV0000216 Sanitation  Garbage not collected                                    02 20241010 E
+GRV0000217 Sanitation  Loud noise from neighbors                                02 20241009 E
+GRV0000218 Sanitation  Dripping tap in kitchen                                  02 20241008 E
+GRV0000219 Roads       Broken tiles in corridor                                 04 20241007 E
+GRV0000220 Sanitation  Mosquito infestation                                     02 20241006 E
+GRV0000221 Sanitation  Loud noise from neighbors                                02 20241005 E
+GRV0000222 Bank        Streetlight not working                                  06 20241004 E
+GRV0000223 Sanitation  Garbage not collected                                    02 20241003 E
+GRV0000224 Sanitation  Garbage not collected                                    02 20241002 E
+GRV0000225 Sanitation  Parking issues in basement                               02 20241001 E
+GRV0000226 Water       Inadequate water supply                                  03 20240930 E
+GRV0000227 Sanitation  Loud noise from neighbors                                02 20240929 E
+GRV0000228 Sanitation  Parking issues in basement                               02 20240928 E
+GRV0000229 Bank        Streetlight not working                                  06 20240927 E
+GRV0000230 Electricity Elevator not functioning                                 05 20240926 E
+GRV0000231 Roads       Blocked drainage system                                  04 20240925 E
+GRV0000232 Sanitation  Unhygienic surroundings                                  02 20240924 E
+GRV0000233 Water       Water leakage in bathroom                                03 20240923 E
+GRV0000234 Sanitation  Unhygienic surroundings                                  02 20240922 E
+GRV0000235 Sanitation  Unhygienic surroundings                                  02 20240921 E
+GRV0000236 Roads       Blocked drainage system                                  04 20240920 E
+GRV0000237 Sanitation  Fan making unusual noise                                 02 20240919 E
+GRV0000238 Sanitation  Security guard absent                                    02 20240918 E
+GRV0000239 Roads       Broken tiles in corridor                                 04 20240917 E
+GRV0000240 Electricity Elevator not functioning                                 05 20240916 E
+GRV0000241 Sanitation  Parking issues in basement                               02 20240915 E
+GRV0000242 Sanitation  Parking issues in basement                               02 20240914 E
+GRV0000243 Bank        Unauthorized vehicle parked                              06 20240913 E
+GRV0000244 Sanitation  Security guard absent                                    02 20240912 E
+GRV0000245 Sanitation  Parking issues in basement                               02 20240911 E
+GRV0000246 Bank        Streetlight not working                                  06 20240910 E
+GRV0000247 Roads       Tree branches need trimming                              04 20240909 E
+GRV0000248 Sanitation  Air conditioner not cooling                              02 20240908 E
+GRV0000249 Roads       Blocked drainage system                                  04 20240907 E
+GRV0000250 Water       Water leakage in bathroom                                03 20240906 E
+GRV0000251 Bank        Unauthorized vehicle parked                              06 20240905 E
+GRV0000252 Sanitation  Power outage for several hours                           02 20240904 E
+GRV0000253 Sanitation  Security guard absent                                    02 20240903 E
+GRV0000254 Sanitation  Security guard absent                                    02 20240902 E
+GRV0000255 Sanitation  Air conditioner not cooling                              02 20240901 E
+GRV0000256 Water       Water leakage in bathroom                                03 20240831 E
+GRV0000257 Sanitation  Loud noise from neighbors                                02 20240830 E
+GRV0000258 Sanitation  Fan making unusual noise                                 02 20240829 E
+GRV0000259 Sanitation  Air conditioner not cooling                              02 20240828 E
+GRV0000260 Water       Water leakage in bathroom                                03 20240827 E
+GRV0000261 Sanitation  Mosquito infestation                                     02 20240826 E
+GRV0000262 Roads       Blocked drainage system                                  04 20240825 E
+GRV0000263 Roads       Blocked drainage system                                  04 20240824 E
+GRV0000264 Sanitation  Garbage not collected                                    02 20240823 E
+GRV0000265 Sanitation  Power outage for several hours                           02 20240822 E
+GRV0000266 Sanitation  Power outage for several hours                           02 20240821 E
+GRV0000267 Roads       Broken tiles in corridor                                 04 20240820 E
+GRV0000268 Sanitation  Power outage for several hours                           02 20240819 E
+GRV0000269 Sanitation  Improper waste segregation                               02 20240818 E
+GRV0000270 Water       Water leakage in bathroom                                03 20240817 E
+GRV0000271 Sanitation  Mosquito infestation                                     02 20240816 E
+GRV0000272 Sanitation  Garbage not collected                                    02 20240815 E
+GRV0000273 Electricity Elevator not functioning                                 05 20240814 E
+GRV0000274 Sanitation  Power outage for several hours                           02 20240813 E
+GRV0000275 Sanitation  Air conditioner not cooling                              02 20240812 E
+GRV0000276 Bank        Unauthorized vehicle parked                              06 20240811 E
+GRV0000277 Sanitation  Dripping tap in kitchen                                  02 20240810 E
+GRV0000278 Sanitation  Wi-Fi connectivity problem                               02 20240809 E
+GRV0000279 Sanitation  Dripping tap in kitchen                                  02 20240808 E
+GRV0000280 Bank        Streetlight not working                                  06 20240807 E
+GRV0000281 Sanitation  Fan making unusual noise                                 02 20240806 E
+GRV0000282 Bank        Streetlight not working                                  06 20240805 E
+GRV0000283 Sanitation  Dripping tap in kitchen                                  02 20240804 E
+GRV0000284 Sanitation  Improper waste segregation                               02 20240803 E
+GRV0000285 Sanitation  Mosquito infestation                                     02 20240802 E
+GRV0000286 Sanitation  Improper waste segregation                               02 20240801 E
+GRV0000287 Roads       Broken tiles in corridor                                 04 20240731 E
+GRV0000288 Bank        Unauthorized vehicle parked                              06 20240730 E
+GRV0000289 Sanitation  Loud noise from neighbors                                02 20240729 E
+GRV0000290 Roads       Broken tiles in corridor                                 04 20240728 E
+GRV0000291 Sanitation  Parking issues in basement                               02 20240727 E
+GRV0000292 Electricity Elevator not functioning                                 05 20240726 E
+GRV0000293 Roads       Tree branches need trimming                              04 20240725 E
+GRV0000294 Sanitation  Loud noise from neighbors                                02 20240724 E
+GRV0000295 Sanitation  Security guard absent                                    02 20240723 E
+GRV0000296 Sanitation  Wi-Fi connectivity problem                               02 20240722 E
+GRV0000297 Sanitation  Garbage not collected                                    02 20240721 E
+GRV0000298 Sanitation  Dripping tap in kitchen                                  02 20240720 E
+GRV0000299 Sanitation  Improper waste segregation                               02 20240719 E
+GRV0000300 Sanitation  Power outage for several hours                           02 20240718 E
+GRV0000301 Bank        Streetlight not working                                  06 20240717 E
+GRV0000302 Sanitation  Security guard absent                                    02 20240716 E
+GRV0000303 Sanitation  Mosquito infestation                                     02 20240715 E
+GRV0000304 Sanitation  Wi-Fi connectivity problem                               02 20240714 E
+GRV0000305 Sanitation  Improper waste segregation                               02 20240713 E
+GRV0000306 Sanitation  Improper waste segregation                               02 20240712 E
+GRV0000307 Bank        Unauthorized vehicle parked                              06 20240711 E
+GRV0000308 Sanitation  Parking issues in basement                               02 20240710 E
+GRV0000309 Sanitation  Air conditioner not cooling                              02 20240709 E
+GRV0000310 Roads       Tree branches need trimming                              04 20240708 E
+GRV0000311 Sanitation  Dripping tap in kitchen                                  02 20240707 E
+GRV0000312 Sanitation  Power outage for several hours                           02 20240706 E
+GRV0000313 Sanitation  Parking issues in basement                               02 20240705 E
+GRV0000314 Water       Water leakage in bathroom                                03 20240704 E
+GRV0000315 Sanitation  Parking issues in basement                               02 20240703 E
+GRV0000316 Sanitation  Fan making unusual noise                                 02 20240702 E
+GRV0000317 Sanitation  Security guard absent                                    02 20240701 E
+GRV0000318 Sanitation  Improper waste segregation                               02 20240630 E
+GRV0000319 Roads       Broken tiles in corridor                                 04 20240629 E
+GRV0000320 Sanitation  Garbage not collected                                    02 20240628 E
+GRV0000321 Roads       Blocked drainage system                                  04 20240627 E
+GRV0000322 Sanitation  Security guard absent                                    02 20240626 E
+GRV0000323 Roads       Tree branches need trimming                              04 20240625 E
+GRV0000324 Sanitation  Wi-Fi connectivity problem                               02 20240624 E
+GRV0000325 Sanitation  Security guard absent                                    02 20240623 E
+GRV0000326 Sanitation  Improper waste segregation                               02 20240622 E
+GRV0000327 Bank        Streetlight not working                                  06 20240621 E
+GRV0000328 Sanitation  Improper waste segregation                               02 20240620 E
+GRV0000329 Sanitation  Parking issues in basement                               02 20240619 E
+GRV0000330 Sanitation  Loud noise from neighbors                                02 20240618 E
+GRV0000331 Sanitation  Loud noise from neighbors                                02 20240617 E
+GRV0000332 Water       Inadequate water supply                                  03 20240616 E
+GRV0000333 Sanitation  Improper waste segregation                               02 20240615 E
+GRV0000334 Water       Inadequate water supply                                  03 20240614 E
+GRV0000335 Sanitation  Air conditioner not cooling                              02 20240613 E
+GRV0000336 Roads       Blocked drainage system                                  04 20240612 E
+GRV0000337 Sanitation  Power outage for several hours                           02 20240611 E
+GRV0000338 Electricity Elevator not functioning                                 05 20240610 E
+GRV0000339 Sanitation  Improper waste segregation                               02 20240609 E
+GRV0000340 Bank        Unauthorized vehicle parked                              06 20240608 E
+GRV0000341 Water       Inadequate water supply                                  03 20240607 E
+GRV0000342 Sanitation  Dripping tap in kitchen                                  02 20240606 E
+GRV0000343 Water       Water leakage in bathroom                                03 20240605 E
+GRV0000344 Water       Water leakage in bathroom                                03 20240604 E
+GRV0000345 Sanitation  Power outage for several hours                           02 20240603 E
+GRV0000346 Roads       Broken tiles in corridor                                 04 20240602 E
+GRV0000347 Sanitation  Parking issues in basement                               02 20240601 E
+GRV0000348 Bank        Unauthorized vehicle parked                              06 20240531 E
+GRV0000349 Sanitation  Loud noise from neighbors                                02 20240530 E
+GRV0000350 Water       Inadequate water supply                                  03 20240529 E
+GRV0000351 Sanitation  Garbage not collected                                    02 20240528 E
+GRV0000352 Sanitation  Fan making unusual noise                                 02 20240527 E
+GRV0000353 Sanitation  Unhygienic surroundings                                  02 20240526 E
+GRV0000354 Bank        Unauthorized vehicle parked                              06 20240525 E
+GRV0000355 Sanitation  Dripping tap in kitchen                                  02 20240524 E
+GRV0000356 Water       Inadequate water supply                                  03 20240523 E
+GRV0000357 Water       Water leakage in bathroom                                03 20240522 E
+GRV0000358 Bank        Streetlight not working                                  06 20240521 E
+GRV0000359 Bank        Unauthorized vehicle parked                              06 20240520 E
+GRV0000360 Electricity Elevator not functioning                                 05 20240519 E
+GRV0000361 Roads       Broken tiles in corridor                                 04 20240518 E
+GRV0000362 Sanitation  Fan making unusual noise                                 02 20240517 E
+GRV0000363 Sanitation  Dripping tap in kitchen                                  02 20240516 E
+GRV0000364 Water       Water leakage in bathroom                                03 20240515 E
+GRV0000365 Bank        Unauthorized vehicle parked                              06 20240514 E
+GRV0000366 Sanitation  Loud noise from neighbors                                02 20240513 E
+GRV0000367 Sanitation  Loud noise from neighbors                                02 20240512 E
+GRV0000368 Sanitation  Security guard absent                                    02 20240511 E
+GRV0000369 Sanitation  Unhygienic surroundings                                  02 20240510 E
+GRV0000370 Sanitation  Security guard absent                                    02 20240509 E
+GRV0000371 Sanitation  Mosquito infestation                                     02 20240508 E
+GRV0000372 Sanitation  Mosquito infestation                                     02 20240507 E
+GRV0000373 Sanitation  Loud noise from neighbors                                02 20240506 E
+GRV0000374 Roads       Broken tiles in corridor                                 04 20240505 E
+GRV0000375 Water       Inadequate water supply                                  03 20240504 E
+GRV0000376 Sanitation  Wi-Fi connectivity problem                               02 20240503 E
+GRV0000377 Sanitation  Improper waste segregation                               02 20240502 E
+GRV0000378 Sanitation  Fan making unusual noise                                 02 20240501 E
+GRV0000379 Bank        Unauthorized vehicle parked                              06 20240430 E
+GRV0000380 Water       Water leakage in bathroom                                03 20240429 E
+GRV0000381 Bank        Unauthorized vehicle parked                              06 20240428 E
+GRV0000382 Electricity Elevator not functioning                                 05 20240427 E
+GRV0000383 Sanitation  Loud noise from neighbors                                02 20240426 E
+GRV0000384 Electricity Elevator not functioning                                 05 20240425 E
+GRV0000385 Sanitation  Dripping tap in kitchen                                  02 20240424 E
+GRV0000386 Sanitation  Improper waste segregation                               02 20240423 E
+GRV0000387 Sanitation  Improper waste segregation                               02 20240422 E
+GRV0000388 Bank        Streetlight not working                                  06 20240421 E
+GRV0000389 Sanitation  Dripping tap in kitchen                                  02 20240420 E
+GRV0000390 Sanitation  Power outage for several hours                           02 20240419 E
+GRV0000391 Sanitation  Improper waste segregation                               02 20240418 E
+GRV0000392 Sanitation  Unhygienic surroundings                                  02 20240417 E
+GRV0000393 Water       Water leakage in bathroom                                03 20240416 E
+GRV0000394 Sanitation  Improper waste segregation                               02 20240415 E
+GRV0000395 Sanitation  Mosquito infestation                                     02 20240414 E
+GRV0000396 Sanitation  Wi-Fi connectivity problem                               02 20240413 E
+GRV0000397 Sanitation  Parking issues in basement                               02 20240412 E
+GRV0000398 Sanitation  Power outage for several hours                           02 20240411 E
+GRV0000399 Bank        Unauthorized vehicle parked                              06 20240410 E
+GRV0000400 Bank        Unauthorized vehicle parked                              06 20240409 E
+GRV0000401 Roads       Blocked drainage system                                  04 20240408 E
+GRV0000402 Sanitation  Mosquito infestation                                     02 20240407 E
+GRV0000403 Roads       Broken tiles in corridor                                 04 20240406 E
+GRV0000404 Bank        Unauthorized vehicle parked                              06 20240405 E
+GRV0000405 Water       Inadequate water supply                                  03 20240404 E
+GRV0000406 Roads       Tree branches need trimming                              04 20240403 E
+GRV0000407 Roads       Tree branches need trimming                              04 20240402 E
+GRV0000408 Sanitation  Parking issues in basement                               02 20240401 E
+GRV0000409 Bank        Streetlight not working                                  06 20240331 E
+GRV0000410 Sanitation  Parking issues in basement                               02 20240330 E
+GRV0000411 Sanitation  Loud noise from neighbors                                02 20240329 E
+GRV0000412 Roads       Blocked drainage system                                  04 20240328 E
+GRV0000413 Roads       Tree branches need trimming                              04 20240327 E
+GRV0000414 Sanitation  Improper waste segregation                               02 20240326 E
+GRV0000415 Bank        Streetlight not working                                  06 20240325 E
+GRV0000416 Sanitation  Unhygienic surroundings                                  02 20240324 E
+GRV0000417 Roads       Tree branches need trimming                              04 20240323 E
+GRV0000418 Bank        Unauthorized vehicle parked                              06 20240322 E
+GRV0000419 Bank        Streetlight not working                                  06 20240321 E
+GRV0000420 Sanitation  Fan making unusual noise                                 02 20240320 E
+GRV0000421 Sanitation  Wi-Fi connectivity problem                               02 20240319 E
+GRV0000422 Roads       Broken tiles in corridor                                 04 20240318 E
+GRV0000423 Sanitation  Power outage for several hours                           02 20240317 E
+GRV0000424 Bank        Streetlight not working                                  06 20240316 E
+GRV0000425 Sanitation  Garbage not collected                                    02 20240315 E
+GRV0000426 Bank        Streetlight not working                                  06 20240314 E
+GRV0000427 Sanitation  Fan making unusual noise                                 02 20240313 E
+GRV0000428 Sanitation  Unhygienic surroundings                                  02 20240312 E
+GRV0000429 Sanitation  Wi-Fi connectivity problem                               02 20240311 E
+GRV0000430 Sanitation  Security guard absent                                    02 20240310 E
+GRV0000431 Sanitation  Improper waste segregation                               02 20240309 E
+GRV0000432 Sanitation  Parking issues in basement                               02 20240308 E
+GRV0000433 Electricity Elevator not functioning                                 05 20240307 E
+GRV0000434 Bank        Unauthorized vehicle parked                              06 20240306 E
+GRV0000435 Sanitation  Improper waste segregation                               02 20240305 E
+GRV0000436 Bank        Unauthorized vehicle parked                              06 20240304 E
+GRV0000437 Sanitation  Garbage not collected                                    02 20240303 E
+GRV0000438 Roads       Broken tiles in corridor                                 04 20240302 E
+GRV0000439 Water       Water leakage in bathroom                                03 20240301 E
+GRV0000440 Roads       Broken tiles in corridor                                 04 20240229 E
+GRV0000441 Sanitation  Air conditioner not cooling                              02 20240228 E
+GRV0000442 Sanitation  Security guard absent                                    02 20240227 E
+GRV0000443 Bank        Streetlight not working                                  06 20240226 E
+GRV0000444 Roads       Tree branches need trimming                              04 20240225 E
+GRV0000445 Sanitation  Security guard absent                                    02 20240224 E
+GRV0000446 Sanitation  Mosquito infestation                                     02 20240223 E
+GRV0000447 Sanitation  Dripping tap in kitchen                                  02 20240222 E
+GRV0000448 Sanitation  Power outage for several hours                           02 20240221 E
+GRV0000449 Sanitation  Wi-Fi connectivity problem                               02 20240220 E
+GRV0000450 Sanitation  Garbage not collected                                    02 20240219 E
+GRV0000451 Sanitation  Garbage not collected                                    02 20240218 E
+GRV0000452 Water       Water leakage in bathroom                                03 20240217 E
+GRV0000453 Electricity Elevator not functioning                                 05 20240216 E
+GRV0000454 Sanitation  Loud noise from neighbors                                02 20240215 E
+GRV0000455 Sanitation  Air conditioner not cooling                              02 20240214 E
+GRV0000456 Sanitation  Air conditioner not cooling                              02 20240213 E
+GRV0000457 Roads       Tree branches need trimming                              04 20240212 E
+GRV0000458 Sanitation  Power outage for several hours                           02 20240211 E
+GRV0000459 Sanitation  Garbage not collected                                    02 20240210 E
+GRV0000460 Sanitation  Garbage not collected                                    02 20240209 E
+GRV0000461 Sanitation  Mosquito infestation                                     02 20240208 E
+GRV0000462 Sanitation  Unhygienic surroundings                                  02 20240207 E
+GRV0000463 Sanitation  Mosquito infestation                                     02 20240206 E
+GRV0000464 Roads       Broken tiles in corridor                                 04 20240205 E
+GRV0000465 Bank        Streetlight not working                                  06 20240204 E
+GRV0000466 Sanitation  Improper waste segregation                               02 20240203 E
+GRV0000467 Roads       Tree branches need trimming                              04 20240202 E
+GRV0000468 Bank        Streetlight not working                                  06 20240201 E
+GRV0000469 Sanitation  Wi-Fi connectivity problem                               02 20240131 E
+GRV0000470 Sanitation  Dripping tap in kitchen                                  02 20240130 E
+GRV0000471 Sanitation  Fan making unusual noise                                 02 20240129 E
+GRV0000472 Sanitation  Parking issues in basement                               02 20240128 E
+GRV0000473 Roads       Broken tiles in corridor                                 04 20240127 E
+GRV0000474 Sanitation  Garbage not collected                                    02 20240126 E
+GRV0000475 Roads       Blocked drainage system                                  04 20240125 E
+GRV0000476 Sanitation  Garbage not collected                                    02 20240124 E
+GRV0000477 Sanitation  Parking issues in basement                               02 20240123 E
+GRV0000478 Sanitation  Parking issues in basement                               02 20240122 E
+GRV0000479 Water       Water leakage in bathroom                                03 20240121 E
+GRV0000480 Sanitation  Air conditioner not cooling                              02 20240120 E
+GRV0000481 Water       Inadequate water supply                                  03 20240119 E
+GRV0000482 Roads       Tree branches need trimming                              04 20240118 E
+GRV0000483 Sanitation  Wi-Fi connectivity problem                               02 20240117 E
+GRV0000484 Sanitation  Garbage not collected                                    02 20240116 E
+GRV0000485 Roads       Tree branches need trimming                              04 20240115 E
+GRV0000486 Sanitation  Air conditioner not cooling                              02 20240114 E
+GRV0000487 Sanitation  Loud noise from neighbors                                02 20240113 E
+GRV0000488 Sanitation  Air conditioner not cooling                              02 20240112 E
+GRV0000489 Sanitation  Dripping tap in kitchen                                  02 20240111 E
+GRV0000490 Sanitation  Fan making unusual noise                                 02 20240110 E
+GRV0000491 Sanitation  Loud noise from neighbors                                02 20240109 E
+GRV0000492 Bank        Streetlight not working                                  06 20240108 E
+GRV0000493 Sanitation  Mosquito infestation                                     02 20240107 E
+GRV0000494 Sanitation  Fan making unusual noise                                 02 20240106 E
+GRV0000495 Bank        Streetlight not working                                  06 20240105 E
+GRV0000496 Bank        Streetlight not working                                  06 20240104 E
+GRV0000497 Sanitation  Power outage for several hours                           02 20240103 E
+GRV0000498 Sanitation  Loud noise from neighbors                                02 20240102 E
+GRV0000499 Sanitation  Unhygienic surroundings                                  02 20240101 E
+GRV0000500 Sanitation  Mosquito infestation                                     02 20231231 E
