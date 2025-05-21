@@ -1,6 +1,6 @@
 # E-Governance Public Grievance Analyzer
 
-A hybrid AI + Mainframe system to automate public grievance analysis using Natural Language Processing (NLP), legacy system integration, and modern web interfaces.
+A hybrid AI + Mainframe system to automate public grievance analysis using Artificial Intelligence (AI) and Natural Language Processing (NLP), legacy system integration, and modern web interfaces.
 
 ## Overview
 
